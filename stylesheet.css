@@ -1,0 +1,29 @@
+.green{ 
+	color: blue;
+font-size: 30px;
+ }
+ .pink{
+ 	text-align: right;
+ 	width: 200px;
+ }
+ li{
+ 	background-color: grey;
+ 	color: blue;
+ 	border: dotted;
+ 	border-color: green; 
+ }
+ .shopping{
+ 	background: white;
+ 	color: red;
+ 	border: solid;
+ 	border-color: black;
+ }
+ .tree{
+ 	background: white;
+ 	color: red;
+ 	border: solid;
+ 	border-color: black
+ }
+ form{ 
+ 	box-sizing: 30px;
+ 	 }
